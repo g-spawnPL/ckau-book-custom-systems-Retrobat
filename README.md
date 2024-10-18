@@ -30,28 +30,6 @@ Once implemented in your system, you can use our Emulationstation Theme: https:/
 
 ## How to install new systems
 
-### Batocera <img align="left" src="https://emulation.gametechwiki.com/images/thumb/9/91/Icon_Linux_Head.png/20px-Icon_Linux_Head.png">
-
-Additional .cfg files are located in two directories of this repository:
-
-`/Batocera/Raspberry Pi 4 (base)/system`
-`/Batocera/x86 64bit (additional)/system`
-
-while .cfg files in `Raspberry Pi 4 (base)` can be used in any Batocera installation, the ones in `x86 64bit (additional)` can be only added in a x86 PC Batocera environment.
-
-To add the new systems, the desired .cfg files must be copied in the same directory as `es_systems.cfg`, which for Batocera is
-
-`/usr/share/emulationstation/`
-
-When done, for each added system you should create the proper `/roms/<system_name>` directory and put your roms into it.
-Please check the right name to create, following the examples located in `/Batocera/Raspberry Pi 4 (base)/roms` or `/Batocera/x86 64bit (additional)/roms` directories of this repository.
-
-You'll also find a `_info.txt` file that explains which extensions are allowed for each system.
-For some systems, there may be also the need to install additional emulators (check the same `_info.txt` file for instructions).
-
-A newly added system, if there is at least one rom file, will automatically be recognized by Batocera at the next boot.
-
-
 ## Retrobat <img align="left" src="https://emulation.gametechwiki.com/images/thumb/1/1f/Icon_Windows_10.png/24px-Icon_Windows_10.png">
 
 Additional .cfg files are located in the following directory of this repository:
