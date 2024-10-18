@@ -1,7 +1,0 @@
-## SYSTEM SONY POCKETSTATION ##
--------------------------------------------------------------------------------
-ROM files extensions accepted: ".gme .zip .7z"
-
-Requires MAME BIOS file pockstat.zip
--------------------------------------------------------------------------------
-Extensions des fichiers ROMs permises: ".gme .zip .7z"
