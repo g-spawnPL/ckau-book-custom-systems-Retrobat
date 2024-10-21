@@ -30,7 +30,7 @@ Once implemented in your system, you can use our Emulationstation Theme: https:/
 
 ## How to install new systems
 
-## Retrobat <img align="left" width="30px" src="\https://pbs.twimg.com/profile_images/1599404333845680131/EKDxmsad_400x400.jpg">
+## Retrobat <img align="left" width="30px" src="https://pbs.twimg.com/profile_images/1599404333845680131/EKDxmsad_400x400.jpg">
 
 Additional .cfg files are located in the following directory of this repository:
 
